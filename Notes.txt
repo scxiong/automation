@@ -1,0 +1,1 @@
+heroku domains:add www.sisimassagehaarlem.com --app sisi0
